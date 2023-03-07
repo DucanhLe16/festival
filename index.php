@@ -9,7 +9,7 @@
 <body>
     <div class="modify">
         <ul>
-            <li><img src="assets/images/logo.jpg" width= 150px; height= 150px></li>
+            <li><img src="assets/images/logo.jpg" width= 160px; height= 160px></li>
             <li><a href="index.php">Home</a></li>
             <li><a href="login.php">Login</a></li>
         </ul>
